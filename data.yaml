@@ -1,0 +1,6 @@
+train: /mydrive/yolov9/yolov9/Traffic_Signs_Dataset/train/images
+val: /mydrive/yolov9/yolov9/Traffic_Signs_Dataset/valid/images
+
+# Classes
+nc: 4
+names: ['prohibitory', 'danger', 'mandatory', 'other']
